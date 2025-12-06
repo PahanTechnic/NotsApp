@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+mport { Analytics } from "@vercel/analytics/next"
 
 // Bootstrap Icons CSS import
 const BootstrapIconsLink = () => {
